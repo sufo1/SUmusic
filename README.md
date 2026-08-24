@@ -34,7 +34,8 @@
 
 ## 📥 下载
 
-请前往 [Releases](https://github.com/sufo1/SUmusic-1.63.1/releases) 页面下载最新源代码,仓库默认展示1.63.1版本
+请前往 [Releases](https://github.com/sufo1/SUmusic-1.63.1/releases) 页面下载最新源代码
+仓库默认展示1.63.1版本
 
 ---
 
